@@ -1,6 +1,7 @@
 # PDF-Based Chatbot
 
 This project presents a unique chatbot developed using Langchain, OpenAI, and Streamlit. The distinguishing feature of this chatbot is its ability to answer questions based on the content of uploaded PDF files. It can handle multiple PDFs simultaneously, making it a versatile tool for information extraction and interaction.
+additionaly you need to obtain an OpenAI API key and add it to the .env file.
 
 ## Preview
 Screenshots of the chatbot in action will be added to this section to give users a visual understanding of its interface and functionality.
